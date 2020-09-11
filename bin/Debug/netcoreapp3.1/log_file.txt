@@ -1,0 +1,27 @@
+2020-09-09 19:15:52.6195|INFO|SleepData.Program|Program started
+2020-09-09 19:16:01.3175|INFO|SleepData.Program|Program ended
+2020-09-09 19:16:07.7368|INFO|SleepData.Program|Program started
+2020-09-09 19:16:08.5838|INFO|SleepData.Program|Program ended
+2020-09-09 19:22:06.7083|INFO|SleepData.Program|Program started
+2020-09-09 19:22:08.8562|INFO|SleepData.Program|Program ended
+2020-09-09 19:22:28.3688|INFO|SleepData.Program|Program started
+2020-09-09 19:22:30.0841|INFO|SleepData.Program|Program ended
+2020-09-09 19:23:05.1232|INFO|SleepData.Program|Program started
+2020-09-09 19:23:05.5441|INFO|SleepData.Program|Program ended
+2020-09-09 19:23:46.1423|INFO|SleepData.Program|Program started
+2020-09-09 19:23:46.9527|INFO|SleepData.Program|Program ended
+2020-09-09 19:24:01.5613|INFO|SleepData.Program|Program started
+2020-09-09 19:24:02.8154|INFO|SleepData.Program|Program ended
+2020-09-09 19:24:25.9176|INFO|SleepData.Program|Program started
+2020-09-09 19:24:27.1338|INFO|SleepData.Program|Program ended
+2020-09-09 19:31:26.7468|INFO|SleepData.Program|Program started
+2020-09-09 19:31:28.9487|INFO|SleepData.Program|Program ended
+2020-09-09 19:32:02.6593|INFO|SleepData.Program|Program started
+2020-09-09 19:32:20.6939|INFO|SleepData.Program|Program ended
+2020-09-09 19:32:28.7354|INFO|SleepData.Program|Program started
+2020-09-09 19:32:32.2961|ERROR|SleepData.Program|Invalid input (integer): "five"
+2020-09-09 19:32:32.3107|INFO|SleepData.Program|Program ended
+2020-09-11 15:53:38.2869|INFO|SleepData.Program|Program started
+2020-09-11 15:53:45.2179|INFO|SleepData.Program|Program ended
+2020-09-11 15:53:49.1523|INFO|SleepData.Program|Program started
+2020-09-11 15:53:55.3178|INFO|SleepData.Program|Program ended

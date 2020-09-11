@@ -1,0 +1,17 @@
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\SleepData.exe
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\SleepData.deps.json
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\SleepData.runtimeconfig.json
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\SleepData.runtimeconfig.dev.json
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\SleepData.dll
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\SleepData.pdb
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.csprojAssemblyReference.cache
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.AssemblyInfoInputs.cache
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.AssemblyInfo.cs
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.csproj.CoreCompileInputs.cache
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.dll
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.pdb
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.genruntimeconfig.cache
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\feign\Desktop\DotNetDb\SleepData\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\feign\Desktop\DotNetDb\SleepData\obj\Debug\netcoreapp3.1\SleepData.csproj.CopyComplete
